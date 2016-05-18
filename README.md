@@ -1,5 +1,6 @@
 # backup-server-to-cloud
 A script to save your websites or server configurations to the cloud
+A french tutorial is available here : https://yann.me/sauvegarder-votre-serveur-dans-le-cloud-automatiquement/
 
 # How to use
 
